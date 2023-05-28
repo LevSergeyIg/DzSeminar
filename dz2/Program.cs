@@ -11,5 +11,5 @@ if (numberA > numberB)
 }
 else
 {
-    Console.WriteLine($"{numberB}Является большим числом, a {numberA} Является меньшим");
+    Console.WriteLine($"{numberB} Является большим числом, a {numberA} Является меньшим");
 }
